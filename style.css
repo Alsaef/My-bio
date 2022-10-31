@@ -2,7 +2,7 @@ body { background-image: url("2022-10-30-22-55-33-480.jpg");
     text-align: center;
     border: solid 2px;
 }
-h2 {
+h2 { font-size: 35px;
     border: solid black 2px;
     background-color: red;
     color: white;
